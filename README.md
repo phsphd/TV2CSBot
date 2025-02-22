@@ -72,7 +72,7 @@ Set up **TradingView alerts** to send JSON-based signals to **NJ2CS**.
 Have questions or need assistance? **Join our community and discuss automated trading solutions!**  
 
 📌 **Try NJ2CS for FREE at:** [aiprediction.us/software/](https://aiprediction.us/software/)  
-⚠️ **Note:** Due to GitHub's **1 MB file size limit**, NJ2CS (4 MB) cannot be uploaded here. **Download it from the official website.**  
+ 
 
 🚀 **Take control of your trading with NJ2CS!**
 
